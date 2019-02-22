@@ -1,0 +1,40 @@
+# -------------------------------------------------------------------
+# - NAME:        colors.txt
+# - AUTHOR:      Reto Stauffer
+# - DATE:        2017-06-28
+# -------------------------------------------------------------------
+# - DESCRIPTION: This file contains the colors for the different
+#                faculties of the university of Innsbruck as HEX 
+#                numbers (from the CD).
+#
+#                These colors (or the CMYK version of these colors)
+#                is used in the LaTeX beamerclass 'uibk' and
+#                'uibkposter' named 'faccol'. The R script 'colors.R'
+#                creates a brighter version of these colors which can
+#                be used in the beamerclass 'uibk' and 'uibkbeamer'
+#                named 'faccollight'.
+# -------------------------------------------------------------------
+# - EDITORIAL:   2017-06-28, RS: Created file on thinkreto.
+# -------------------------------------------------------------------
+# - L@ST MODIFIED: 2017-07-18 19:07 on thinkreto
+# -------------------------------------------------------------------
+faculty                             hexcolor
+architektur                         231f20
+betriebswirtschaft                  2a9bc9
+bildungswissenschaften              f03296
+biologie                            41b23b
+chemieundpharmazie                  de5416
+geoundatmosphaerenwissenschaften    2056ae
+mip                                 96c736
+socialandpoliticalsciences          084740
+psychologieundsportwissenschaften   00aaa0
+technischewissenschaften            8b622c
+volkswirtschaftundstatistik         18316e
+theol                               615aa8
+philologisch                        123e4c
+philosophisch                       e6a00a
+law                                 c01826
+soe                                 e7cb19
+weiterbildungen                     bdbcbc
+orange                              f39200
+none                                0c2e59
